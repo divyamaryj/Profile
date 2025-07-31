@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering (CSE) BTech stu
 ## 🚀 About Me
 
 - 🌟 **Profession:** CSE BTech Student
-- 💡 **Interests:** Programming, Web Development, Cybersecurity, and Linux
+- 💡 **Interests:** Programming, Web Development, Cybersecurity.
 - 🛠️ **Top Skills:** Python, HTML, CSS, SQL, Nmap, Linux
 - 📚 **Currently Learning:** Advanced cybersecurity tools & techniques, full-stack development
-- 🤝 **Open to Collaborate:** Yes! Especially on web development and cybersecurity projects
+- 🤝 **Open to Collaborate:** Yes! Especially on web development and cybersecurity projects.
 
 ---
 
@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering (CSE) BTech stu
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect or reach out for collaboration._ 🚀
+_Thanks for visiting my profile! 🚀
